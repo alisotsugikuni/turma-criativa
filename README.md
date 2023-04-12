@@ -1,2 +1,1 @@
-# turma-criativa
-é a tropa do jacaré.
+# site-turma-2B
